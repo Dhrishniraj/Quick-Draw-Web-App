@@ -8,6 +8,7 @@ drawnSketch = "";
 function setup(){
     canvas = createCanvas(380, 380);
     canvas.position(((screen.width / 2) - 190), 500);
+    background("white");
     canvas.mouseReleased(classifyCanvas);
 }
 function startudibaba(){
