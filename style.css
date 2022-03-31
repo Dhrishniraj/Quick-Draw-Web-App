@@ -1,0 +1,30 @@
+body{
+    background-color: #acf34d;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    background-color: #fef9e2;
+    color: blue;
+}
+.btn-info{
+    float: right;
+    font-size: 19px;
+}
+p{
+    padding-top: 10px;
+    font-size: 25px;
+}
+#sketch_to_be_drawn{
+    color: red;
+}
+#time{
+    float: right;
+}
+#score{
+    float: left;
+}
+#keypoints{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 40px;
+}
